@@ -333,25 +333,6 @@ python -m pytest tests/ -v
 4. Update documentation
 5. Submit a pull request
 
----
-
-## 🏆 **Recognition**
-
-### **Awards and Recognition**
-
-- **Security Tool of the Year 2024** - InfoSec Awards
-- **Featured at DEF CON 32** - Arsenal Presentation
-- **Top Bug Bounty Tool** - Bugcrowd Community Choice
-
-### **Community**
-
-- **5,000+** Active Users Worldwide
-- **1,000+** GitHub Stars
-- **500+** Bug Bounty Success Stories
-- **100+** CTF Competition Wins
-
----
-
 ## 📞 **Support**
 
 ### **Documentation**
