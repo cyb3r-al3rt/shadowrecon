@@ -1,6 +1,4 @@
-# 🎭 ShadowRecon v1.0 - FIXED VERSION
-
-**GUARANTEED NO IMPORT ERRORS**
+# 🎭 ShadowRecon v1.0
 
 > *"In the shadows, we find the truth. In reconnaissance, we find power."*
 
