@@ -1,1 +1,1 @@
-"""Unit tests"""
+"""Unit tests for ShadowRecon components"""
